@@ -7,7 +7,6 @@ Hello and welcome to the orderbird tech challenge for mobile test automation.
 We know that your time is valuable. So if this challenge takes more than 4 h of your time please stop and get in touch anyways. For your solution please create a public github repo and share the link with us. Please do not fork this repo as it would give other candidates the solution to your hard work :-)
 
 
-
 Your tasks, if you accept them, are as follows:
 
 ## 0. setup Appium
@@ -31,3 +30,8 @@ Please write some testcases for three different views, chose what you want to te
 
 ## 3. add a readme to your repo
 So after your hard work please tell us how we would setup our local environment to fire up your test suite.
+
+# Submitting your solution
+* Send a link to your repo to tech-challenge@orderbird.com
+* Do not remove the git information, so we can easily review your changes
+* Do not fork this repository
