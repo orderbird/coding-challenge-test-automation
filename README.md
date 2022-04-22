@@ -29,7 +29,7 @@ Please write some testcases for three different views, chose what you want to te
 
 Please write your tests using Python.
 
-## 3. add a readme to your repo
+## 3. Add a README.MD to your repo
 So after your hard work please tell us 
 
 * how we would setup our local environment to fire up your test suite. 
