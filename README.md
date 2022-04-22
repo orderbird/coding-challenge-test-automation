@@ -20,7 +20,6 @@ Alternativly you can also compile the App for an Android simulator if you do not
 ## 2. Automate the app using Appium & Python
 
 As mentioned, TheApp provides very little real functionality other than providing some basic controlls. 
-![](https://github.com/orderbird/coding-challenge-test-automation/blob/main/TheApp-Startscreen.png)
 
 Please write some testcases for three different views, chose what you want to test in these views yourself:
 
@@ -28,8 +27,13 @@ Please write some testcases for three different views, chose what you want to te
 2. Login Screen (valid credentials are user: 'alice', password 'mypassword')
 3. List Demo 
 
+Please write your tests using Python.
+
 ## 3. add a readme to your repo
-So after your hard work please tell us how we would setup our local environment to fire up your test suite.
+So after your hard work please tell us 
+
+* how we would setup our local environment to fire up your test suite. 
+* Please also add documentation on your testcases (Why did you chose these, would you add others if you had more time?)
 
 # Submitting your solution
 * Send a link to your repo to tech-challenge@orderbird.com
