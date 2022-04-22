@@ -36,6 +36,6 @@ So after your hard work please tell us
 * Please also add documentation on your testcases (Why did you chose these, would you add others if you had more time?)
 
 # Submitting your solution
-* Send a link to your repo to tech-challenge@orderbird.com
+* Send a link to your repo to orderbird-jobs@m.personio.de 
 * Do not remove the git information, so we can easily review your changes
 * Do not fork this repository
